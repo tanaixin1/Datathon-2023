@@ -21,7 +21,9 @@ Similarly, socioeconomic factors like income or net worth could predict HBV infe
 
 The model must be designed with sensitivity to these factors and incorporate data that can be reliably obtained during a medical visit. The variables chosen should be those that can be systematically and ethically collected, ensuring that the predictive model can be applied broadly and efficiently in a clinical setting.
 
-# 1. Prizes
+# Prize Categories and Judging Criteria
+
+## Prizes
 
 **The Winning Team** $75 per member
 
@@ -37,20 +39,17 @@ It will be raffled among those who submit a valid project and are judged.
 
  
 
- 
+##  Expectations and Judging
 
-#  2. Expectations and Judging
-
-## Judging
 The first prize will be for the team with a sound data-driven solution for the challenge. Additional prizes will be based on Best Data Collection and Best Data Visualization. Generally, the judges will use the following criteria to determine which teams will win prizes.
 
-## Teams must deliver:
+### Teams must deliver:
 
 * Presentation explaining their solution.
 * A basic report that supports their presentation (provide link to the team GitHub page).
 * Coding scripts (provide link to the team GitHub page).
 
-##  Scoring Rubic 
+###  Scoring Rubic 
 
 **Theme**: Does the team develop a solution that addresses the challenge?
 
