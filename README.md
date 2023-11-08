@@ -1,10 +1,14 @@
 # Datathon 2023
 **Department of Statistics and Actuarial Science @ U Iowa**
 
-Overview:
+Roadmap:
+
 [Problem Statement](#problem-statement)
+
 [Prize Categories and Judging Criteria](#prize-categories-and-judging-criteria)
+
 [Presentation Day](#presentation-day)
+
 
 # Problem Statement
 
