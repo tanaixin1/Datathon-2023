@@ -2,9 +2,9 @@
 **Department of Statistics and Actuarial Science @ U Iowa**
 
 Overview:
-1. Problem Statement #1.-problem-statement
+1. Problem Statement #problem-statement
 
-# 1. Problem Statement
+# Problem Statement
 
 ## Strategic Screening: Developing a Predictive Model for Chronic Hepatitis B Infection Using Reliable Patient Data
 
