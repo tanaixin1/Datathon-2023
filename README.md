@@ -1,8 +1,10 @@
-# Datathon 2023 Department of Stat @ U Iowa
+# Datathon 2023
+**Department of Statistics and Actuarial Science @ U Iowa**
 
 # Problem Statement
 
-Strategic Screening: Developing a Predictive Model for Chronic Hepatitis B Infection Using Reliable Patient Data
+## Strategic Screening: Developing a Predictive Model for Chronic Hepatitis B Infection Using Reliable Patient Data
+
 Chronic Hepatitis B virus (HBV) infection can lead to cirrhosis, liver cancer, and liver failure. While treatable when detected early, many patients with chronic HBV infection remain asymptomatic and undiagnosed until severe liver damage occurs. By the time of diagnosis, the opportunity for effective treatment may have passed.
 
 The implementation of HBV vaccination for U.S. children in 1991 has been highly effective in preventing the infection. However, despite the availability of these vaccines, there has been a stagnation in the reduction of HBV infections, and hepatitis-related deaths have risen. This may be partially attributable to immigration from regions with low vaccination rates or to instances where parents opt out of vaccinating their children.
