@@ -1,8 +1,6 @@
 # Datathon 2023 Department of Stat @ U Iowa
 
-GitHub will host (for free) a website for each of your repositories, a feature called [GitHub Pages](http://pages.github.com). To take advantage of this you just need website files on a branch named `gh-pages` in a repository. You can then find your site at: `yourusername.github.io/repositoryname`.
-
-## Problem Statement
+# Problem Statement
 
 Strategic Screening: Developing a Predictive Model for Chronic Hepatitis B Infection Using Reliable Patient Data
 Chronic Hepatitis B virus (HBV) infection can lead to cirrhosis, liver cancer, and liver failure. While treatable when detected early, many patients with chronic HBV infection remain asymptomatic and undiagnosed until severe liver damage occurs. By the time of diagnosis, the opportunity for effective treatment may have passed.
@@ -22,6 +20,52 @@ When developing a predictive model for chronic HBV infection, it is critical to 
 Similarly, socioeconomic factors like income or net worth could predict HBV infection, yet patients may not know or wish to share precise financial details. Given these challenges, it is essential to identify which variables are both reliable and feasible for health care providers to collect during a typical patient encounter like a doctor’s office visit.
 
 The model must be designed with sensitivity to these factors and incorporate data that can be reliably obtained during a medical visit. The variables chosen should be those that can be systematically and ethically collected, ensuring that the predictive model can be applied broadly and efficiently in a clinical setting.
+
+# 1. Prizes
+
+**The Winning Team** $75 per member
+
+**Best Data Collection Award** $35 per member 
+
+**Best Data Visualization Award** $35 per member 
+
+ <br>
+
+**Raffle prize** $25*2
+
+It will be raffled among those who submit a valid project and are judged.
+
+ 
+
+ 
+
+#  2. Expectations and Judging
+
+## Judging
+The first prize will be for the team with a sound data-driven solution for the challenge. Additional prizes will be based on Best Data Collection and Best Data Visualization. Generally, the judges will use the following criteria to determine which teams will win prizes.
+
+## Teams must deliver:
+
+* Presentation explaining their solution.
+* A basic report that supports their presentation (provide link to the team GitHub page).
+* Coding scripts (provide link to the team GitHub page).
+
+##  Scoring Rubic 
+
+**Theme**: Does the team develop a solution that addresses the challenge?
+
+**Data Collection** (*): Do the data collected align well with the challenge? Was the relevance of data effectively communicated in the presentation?
+
+**Methods**: Is the data analysis and technology behind the idea well-chosen and skillfully implemented? 
+
+**Presentation**: How well was the project presented? Does it make the idea more appealing?
+
+**Visualization** (*): How attractive, innovative and user-friendly is the data visualization?
+
+
+
+
+(*): These criteria are used for separate prizes for "Best Data Collection" and "Best Data Visualization".
 
 **More**
 
