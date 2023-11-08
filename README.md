@@ -1,7 +1,10 @@
 # Datathon 2023
 **Department of Statistics and Actuarial Science @ U Iowa**
 
-# Problem Statement
+Overview:
+1. Problem Statement #1.-problem-statement
+
+# 1. Problem Statement
 
 ## Strategic Screening: Developing a Predictive Model for Chronic Hepatitis B Infection Using Reliable Patient Data
 
@@ -23,7 +26,7 @@ Similarly, socioeconomic factors like income or net worth could predict HBV infe
 
 The model must be designed with sensitivity to these factors and incorporate data that can be reliably obtained during a medical visit. The variables chosen should be those that can be systematically and ethically collected, ensuring that the predictive model can be applied broadly and efficiently in a clinical setting.
 
-# Prize Categories and Judging Criteria
+# 2. Prize Categories and Judging Criteria
 
 ## Prizes
 
@@ -68,7 +71,7 @@ The winning team is the team that demonstrates the best combination of data-driv
 
 
 
-# Presentation Day
+# 3. Presentation Day
 
 **8:30 - 9:00am** Breakfast in Schaeffer Hall, outside 140 SH. 
 **9:00 - 10:00am** Team presentations (5 min presentation followed by 3 minute Q&A per team)
