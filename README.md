@@ -4,6 +4,8 @@ GitHub will host (for free) a website for each of your repositories, a feature c
 
 ## Problem Statement
 
+[GitHub Pages](problem-statement.html)
+
 This repository contains only a `gh-pages` branch and the basic website files: `index.html` and `style.css`.
 
 When you fork this site you'll have a copy on your account. You can click the file names and edit them directly from GitHub.com. And :boom: a site of your own at: yourusername.github.io/gh-pages-template.
