@@ -1,7 +1,7 @@
 # Datathon 2023
 **Department of Statistics and Actuarial Science @ U Iowa**
 
-Roadmap:
+*Roadmap:*
 
 [Problem Statement](#problem-statement)
 
@@ -80,12 +80,18 @@ The winning team is the team that demonstrates the best combination of data-driv
 # Presentation Day
 
 **8:30 - 9:00am** Breakfast in Schaeffer Hall, outside 140 SH. 
+
 **9:00 - 10:00am** Team presentations (5 min presentation followed by 3 minute Q&A per team)
+
 **10:00 - 10:15am** Break
+
 **10:15 - 10:40am** Award ceremony
+
 
 Links to Team GitHub pages (to be updated)
 
+
 [Team 1. Predictive Pioneers](http://stat.uiowa.edu)
+
 [Team 2. Data Divers](http://stat.uiowa.edu)
 ...
