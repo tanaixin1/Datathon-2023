@@ -100,7 +100,7 @@ Links to Team GitHub pages (Teams, please email Aixin your github repository url
 
 [Team 5. Modeling Masters](http://stat.uiowa.edu)
 
-[Team 6. Singltons](http://stat.uiowa.edu)
+[Team 6. HealthGuard](http://stat.uiowa.edu)
 
 [Team 7. The Misfits](http://stat.uiowa.edu)
 
