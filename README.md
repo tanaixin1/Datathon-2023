@@ -81,7 +81,7 @@ The winning team is the team that demonstrates the best combination of data-driv
 
 **8:30 - 9:00am** Breakfast in Schaeffer Hall, outside 140 SH. 
 
-**9:00 - 10:00am** Team presentations (5 min presentation followed by 3 minute Q&A per team)
+**9:00 - 10:00am** Team presentations (**5 min presentation** followed by 3 minute Q&A per team)
 
 **10:00 - 10:20am** Break
 
