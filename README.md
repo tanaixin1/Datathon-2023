@@ -83,15 +83,26 @@ The winning team is the team that demonstrates the best combination of data-driv
 
 **9:00 - 10:00am** Team presentations (5 min presentation followed by 3 minute Q&A per team)
 
-**10:00 - 10:15am** Break
+**10:00 - 10:20am** Break
 
-**10:15 - 10:40am** Award ceremony
+**10:20 - 10:40am** Award ceremony
 
 
-Links to Team GitHub pages (to be updated)
-
+Links to Team GitHub pages (Teams, please email Aixin your github repository url by Nov 11 to be posted below.)
 
 [Team 1. Predictive Pioneers](http://stat.uiowa.edu)
 
 [Team 2. Data Divers](http://stat.uiowa.edu)
+
+[Team 3. The Wranglers](http://stat.uiowa.edu)
+
+[Team 4. StatHawks](http://stat.uiowa.edu)
+
+[Team 5. Modeling Masters](http://stat.uiowa.edu)
+
+[Team 6. Singltons](http://stat.uiowa.edu)
+
+[Team 7. The Misfits](http://stat.uiowa.edu)
+
+
 ...
