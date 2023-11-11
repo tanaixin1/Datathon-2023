@@ -96,9 +96,9 @@ Links to Team GitHub pages (Teams, please email Aixin your github repository url
 
 [Team 3. The Wranglers](http://stat.uiowa.edu)
 
-[Team 4. StatHawks](http://stat.uiowa.edu)
+[Team 4. StatHawks](https://github.com/cmcdonald137137/StatHawks)
 
-[Team 5. Modeling Masters](http://stat.uiowa.edu)
+[Team 5. Modeling Masters](https://research-git.uiowa.edu/mwswinton/datathon-2023)
 
 [Team 6. HealthGuard](http://stat.uiowa.edu)
 
