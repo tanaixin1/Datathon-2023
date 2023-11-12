@@ -105,7 +105,7 @@ Links to Team GitHub pages (Teams, please email Aixin your github repository url
 [Team 7. The Misfits](https://github.com/AlecLangowskiUiowa/DatathonTheMisfits)
 
 
-** Order of Presentation (8 min per team, including Q&A) **
+**Order of Presentation** (8 min per team, including Q&A) 
 
 9:02  StatHawks
 
