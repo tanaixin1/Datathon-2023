@@ -90,11 +90,11 @@ The winning team is the team that demonstrates the best combination of data-driv
 
 Links to Team GitHub pages (Teams, please email Aixin your github repository url by Nov 11 to be posted below.)
 
-[Team 1. Predictive Pioneers](http://stat.uiowa.edu)
+[Team 1. Predictive Pioneers](https://github.com/Deepika-Mitta/Datathon-2023)
 
 [Team 2. Data Divers](https://github.com/Mubarak-M/DataDivers)
 
-[Team 3. The Wranglers](http://stat.uiowa.edu)
+[Team 3. The Wranglers](https://github.com/cartertams/Wranglers)
 
 [Team 4. StatHawks](https://github.com/cmcdonald137137/StatHawks)
 
@@ -105,4 +105,19 @@ Links to Team GitHub pages (Teams, please email Aixin your github repository url
 [Team 7. The Misfits](https://github.com/AlecLangowskiUiowa/DatathonTheMisfits)
 
 
-...
+** Order of Presentation (8 min per team, including Q&A) **
+
+9:02  StatHawks
+
+9:10 
+
+9:18 
+
+9:26 
+
+9:34 
+
+9:42 
+
+9:50 
+
