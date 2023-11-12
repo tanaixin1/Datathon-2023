@@ -107,7 +107,7 @@ Links to Team GitHub pages (Teams, please email Aixin your github repository url
 
 **Order of Presentation** (8 min per team, including Q&A) 
 
-9:02  StatHawks
+9:02  [StatHawks](https://github.com/cmcdonald137137/StatHawks)
 
 9:10 
 
