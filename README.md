@@ -100,7 +100,7 @@ Links to Team GitHub pages (Teams, please email Aixin your github repository url
 
 [Team 5. Modeling Masters](https://research-git.uiowa.edu/mwswinton/datathon-2023)
 
-[Team 6. HealthGuard](http://stat.uiowa.edu)
+[Team 6. HealthGuard](https://github.com/island-xy/healthguard)
 
 [Team 7. The Misfits](https://github.com/AlecLangowskiUiowa/DatathonTheMisfits)
 
