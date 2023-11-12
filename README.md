@@ -92,7 +92,7 @@ Links to Team GitHub pages (Teams, please email Aixin your github repository url
 
 [Team 1. Predictive Pioneers](http://stat.uiowa.edu)
 
-[Team 2. Data Divers](http://stat.uiowa.edu)
+[Team 2. Data Divers](https://github.com/Mubarak-M/DataDivers)
 
 [Team 3. The Wranglers](http://stat.uiowa.edu)
 
@@ -102,7 +102,7 @@ Links to Team GitHub pages (Teams, please email Aixin your github repository url
 
 [Team 6. HealthGuard](http://stat.uiowa.edu)
 
-[Team 7. The Misfits](http://stat.uiowa.edu)
+[Team 7. The Misfits](https://github.com/AlecLangowskiUiowa/DatathonTheMisfits)
 
 
 ...
